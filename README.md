@@ -24,6 +24,6 @@
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **GitHub REST API v3**
 
