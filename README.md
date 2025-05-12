@@ -17,8 +17,8 @@
   Works perfectly on all screen sizes—desktop, tablet, and mobile.
 
 ## 🖼️ Preview
-
-![DevDetective Dark Mode Preview](./path-to-screenshot/dark-mode-preview.png)
+![image](https://github.com/user-attachments/assets/7b3b4d1a-422b-40bc-bbb3-75458b96700e)
+![image](https://github.com/user-attachments/assets/518fa739-8899-4537-90a6-79ee3a5c126a)
 
 ## 🔧 Tech Stack
 
